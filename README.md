@@ -1,2 +1,2 @@
 # albertchen23.github.io
-personal blog
+Albert Chen's Personal Blog.
